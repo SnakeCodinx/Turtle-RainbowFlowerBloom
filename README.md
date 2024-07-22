@@ -1,4 +1,4 @@
-# Rainbow-Spiral
+# RainbowFlowerBloom
 
 This code uses the Python Turtle library to create a beautiful, intricate flower-like pattern with alternating yellow and red colors. The pattern is formed by drawing concentric circles with decreasing radii, with each circle being divided into four quarters with alternating colors. The hideturtle() function is used to hide the turtle, making the pattern more visually appealing.
 
