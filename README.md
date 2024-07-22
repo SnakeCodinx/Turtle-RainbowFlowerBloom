@@ -3,7 +3,7 @@
 This code uses the Python Turtle library to create a beautiful, intricate flower-like pattern with alternating yellow and red colors. The pattern is formed by drawing concentric circles with decreasing radii, with each circle being divided into four quarters with alternating colors. The hideturtle() function is used to hide the turtle, making the pattern more visually appealing.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/6Ad_O_WjEl4))
 
 # Screenshot
 
